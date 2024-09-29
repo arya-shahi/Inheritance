@@ -28,3 +28,9 @@ int main(){
     cout<< "Restaurant: "<<f3.name<<endl;
     return 0; 
 }
+
+/*
+Asian
+Indian: Biryani
+Restaurant: Spice Kitchen
+*/
