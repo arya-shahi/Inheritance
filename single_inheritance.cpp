@@ -20,3 +20,8 @@ int main(){
     d.discipline();
     cout << d.university << " " << d.department << endl;
     return 0; }
+
+/*
+Engineering
+Symbiosis: Electronics & Communication
+    */
