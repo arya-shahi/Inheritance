@@ -31,3 +31,10 @@ int main(){
     cout<<"("<<f2.seater<<")"<<endl<<"MILEAGE:"<<f2.mileage<<endl;
     return 0; 
 }
+
+/*
+Grey
+Ford Mustang
+(4 seater)
+MILEAGE:8kmpl
+    */
